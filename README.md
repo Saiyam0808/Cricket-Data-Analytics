@@ -7,9 +7,9 @@
 
 ---
 
-The Cricket Data Analytics🏏 project is made on T-20 Cricket World Cup Data. I have used **Power BI** for making the Dashboard. We can easily analyse the data of the matches played in the world cup. We can also choose our best playing 11 from the pool of players playing the world cup. 
+Cricket Data Analytics 🏏 is a project based on data from the T20 Cricket World Cup. The dashboard is created using Power BI, allowing for easy and interactive analysis of match data. Users can explore various insights from the tournament and even select their ideal playing XI from the pool of participating players.
 
-> To interact with the dashboard you can download the pbix file from the repository and open it in Power BI Desktop locally.
+
 
 ---
 
