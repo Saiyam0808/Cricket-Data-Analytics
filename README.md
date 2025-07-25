@@ -6,6 +6,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
+## Description
 
 Cricket Data Analytics 🏏 is a project based on data from the T20 Cricket World Cup. The dashboard is created using Power BI, allowing for easy and interactive analysis of match data. Users can explore various insights from the tournament and even select their ideal playing XI from the pool of participating players.
 
