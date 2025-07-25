@@ -14,17 +14,6 @@ Cricket Data Analytics 🏏 is a project based on data from the T20 Cricket Worl
 
 ---
 
-# Steps involved in the project:
-
-1. 📝Requirement Scoping
-2. 🌐Data Collection using Web Scraping from [ESPN Cricinfo](http://www.espn.in/cricket/) website
-3. 🧹Data Cleaning and Preprocessing in Pandas
-4. 🪄Data Transformation in Power Query
-5. ⚒️Data Modelling and Building Parameters in Power BI using DAX
-6. 📊Building the Dashboard in Power BI
-
----
-
 # Screenshots of the Dashboard:
 
 ![power_hitters_and_openers](https://user-images.githubusercontent.com/81465377/211144386-48070a65-7e8b-4370-af44-121b878b554b.jpg)
@@ -42,3 +31,18 @@ Cricket Data Analytics 🏏 is a project based on data from the T20 Cricket Worl
 ![fast_bowlers](https://user-images.githubusercontent.com/81465377/211144473-03ca6186-b8e8-419f-87a1-786f6a2d62a6.jpg)
 
 ![pick_final_11](https://user-images.githubusercontent.com/81465377/211144486-4b48e1fc-fab3-4bb0-b660-7b4da5be627d.jpg)
+
+---
+
+# Steps involved in the project:
+
+1. 📝Requirement Scoping
+2. 🌐Data Collection using Web Scraping from [ESPN Cricinfo](http://www.espn.in/cricket/) website
+3. 🧹Data Cleaning and Preprocessing in Pandas
+4. 🪄Data Transformation in Power Query
+5. ⚒️Data Modelling and Building Parameters in Power BI using DAX
+6. 📊Building the Dashboard in Power BI
+
+---
+
+
