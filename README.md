@@ -58,3 +58,21 @@ Cricket Data Analytics 🏏 is a project based on data from the T20 Cricket Worl
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
+---
+
+# 🚀 Project Learnings
+
+* Gained hands-on experience in web scraping, data cleaning, and analysis using Python and Pandas.
+
+* Built calculated metrics and interactive dashboards in Power BI.
+
+* Learned to model data effectively and apply DAX formulas for key cricket insights.
+
+* Improved understanding of cricket analytics and performance evaluation.
+
+---
+
+# 📌 Conclusion
+
+This project showcases the power of data in sports. From scraping T20 World Cup data to building a dynamic dashboard, it demonstrates how analytics can help in performance tracking and selecting the best playing XI.
+
