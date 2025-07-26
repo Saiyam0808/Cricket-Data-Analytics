@@ -14,7 +14,7 @@ The aim of this project is to analyze player performance data across multiple cr
 The dashboard evaluates the following cricket roles:
 
 - 🧨 **Power Hitters & Openers**  
-  ![Openers](https://github.com/Saiyam0808/Cricket-Data-Analytics/blob/main/Screenshots/all_rounders.jpg)
+  ![Openers](all_rounders.jpg)
 
 - 🛡️ **Anchors**  
   ![Anchors](images/anchors.jpg)
