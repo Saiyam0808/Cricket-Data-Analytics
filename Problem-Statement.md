@@ -13,23 +13,13 @@ The aim of this project is to analyze player performance data across multiple cr
 
 The dashboard evaluates the following cricket roles:
 
-- 🧨 **Power Hitters & Openers**  
-  ![Power Hitters & Openers](Screenshots/power_hitters_and_openers.jpg)
+- 🧨 **[Power Hitters & Openers](Screenshots/power_hitters_and_openers.jpg)**
+- 🛡️ **[Anchors](Screenshots/anchors.jpg)**
+- 🔚 **[Finishers](Screenshots/finishers.jpg)**
+- 🌀 **[All-Rounders](Screenshots/all_rounders.jpg)**
+- ⚡ **[Fast Bowlers](Screenshots/fast_bowlers.jpg)**
+- 🏏 **[Pick Final 11](Screenshots/pick_final_11.jpg)**
 
-- 🛡️ **Anchors**  
-  ![Anchors](Screenshots/anchors.jpg)
-
-- 🔚 **Finishers**  
-  ![Finishers](Screenshots/finishers.jpg)
-
-- 🌀 **All-Rounders**  
-  ![All Rounders](Screenshots/all_rounders.jpg)
-
-- ⚡ **Fast Bowlers**  
-  ![Fast Bowlers](Screenshots/fast_bowlers.jpg)
-
-- 🏏 **Pick Final 11**  
-  ![Final 11](Screenshots/pick_final_11.jpg)
 
 
 ## 🏁 Final Outcome
