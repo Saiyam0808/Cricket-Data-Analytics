@@ -37,7 +37,7 @@ The dashboard evaluates the following cricket roles:
 The outcome is a Power BI dashboard that:
 
 - Enables dynamic selection of players to form the **Best Playing XI**  
-  ![Final XI](images/pick_final_11.jpg)
+  ![Final XI](Screenshots/pick_final_11.jpg)
 - Visualizes performance across different formats or time ranges.
 - Helps selectors or enthusiasts make informed decisions based on actual performance data.
 
