@@ -1,4 +1,4 @@
-# 🏏 Problem Statement: Cricket Data Analytics
+# 🏏 Problem Statement: Cricket Match Performance Analysis
 
 ## 🎯 Objective
 
