@@ -42,7 +42,7 @@ The outcome is a Power BI dashboard that:
 
 - [T20-data-processing.ipynb](./T20-data-processing.ipynb): Jupyter notebook for scraping & cleaning
 - [T20-csv-files](./T20-csv-files/): Cleaned dataset
-- [T20 Cricket Analytics Dashboard.pbix](./T20%20Cricket%20Analytics%20Dashboard.pbix): Power BI Dashboard file
+- [T20 Cricket Analytics Dashboard.pbix](./Dashboard.pbix): Power BI Dashboard file
 - [Problem-Statement.md](./Problem-Statement.md): This file
 - [Screenshots](./Screenshots/): Contains player category visuals used in dashboard
 
