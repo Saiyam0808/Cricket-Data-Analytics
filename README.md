@@ -1,12 +1,12 @@
 👉 [Click here to read the full Problem Statement](./Problem-Statement.md)
 
-# Cricket Data Analytics🏏
+# Cricket Match Performance Analysis🏏
 
 
 ---
 ## Description
 
-Cricket Data Analytics 🏏 is a project based on data from the T20 Cricket World Cup. The dashboard is created using Power BI, allowing for easy and interactive analysis of match data. Users can explore various insights from the tournament and even select their ideal playing XI from the pool of participating players.
+Cricket Match Performance Analysis 🏏 is a project based on data from the T20 Cricket World Cup. The dashboard is created using Power BI, allowing for easy and interactive analysis of match data. Users can explore various insights from the tournament and even select their ideal playing XI from the pool of participating players.
 
 
 
